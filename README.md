@@ -36,6 +36,3 @@ DoS result:
 
 ![dos](/images/2.png)
 
-# Other
-
-This project is inspired by this [repo](https://github.com/cyweb/hammer).
